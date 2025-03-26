@@ -1,0 +1,735 @@
+Category,Farm,Crop,Field User,Field User Id,Assigned Date,Details,Special Instructions,Priority
+Harvesting,Kavita,Curry Leaves,Manisha,Manisha,2027-04-30,,,Moderate
+Harvesting,Farmhouse,Cucumber,Abhishek 2,abhishek_rain,2027-05-01,,,Moderate
+Sowing,Tsyt Fartm,Bajra,Ajay,ajay_task,2027-05-02,,,Critical
+Harvesting,Farm 1,Corn,Ajay,ajay_transport,2027-05-03,,,Critical
+Field Preparation,Farmhouse,Arugula,A Event Logging,a1,2027-05-04,,,Normal
+Field Preparation,Kavita,Corn,Mohan,Mohan_forecast,2027-05-05,,,Moderate
+Irrigation,Farm 1,Bajra,Ajith,ajith_green,2027-05-06,,,Moderate
+Harvesting,Farmhouse,Cow Pea,A Event Logging,a1,2027-05-07,,,Moderate
+Sowing,Farm,Bajra,Manisha,Manisha,2027-05-08,,,Moderate
+Sowing,Tsyt Fartm,Bijora,Aditii,aditi_irrigate,2027-05-09,,,Normal
+Sowing,Farmhouse,Cow Pea,Ajay,ajay_task,2027-05-10,,,Moderate
+Other,Farm 1,Capsicum,Ajay,ajay_pollinate,2027-05-11,,,Critical
+Irrigation,Farmhouse,Amla,Manisha,Manishaa,2027-05-12,,,Normal
+Harvesting,Kavita,Garlic,Ajay,ajay_transport,2027-05-13,,,Moderate
+Drenching,Farm,Arugula,Ajith,ajith_green,2027-05-14,,,Moderate
+Field Preparation,Farm 1,Garlic,Ajay,ajay_transport,2027-05-15,,,Moderate
+Maintenance,Farm,Celery,Ajay,ajay_pollinate,2027-05-16,,,Moderate
+Harvesting,Tsyt Fartm,Capsicum,Abhishek 2,abhishek_rain,2027-05-17,,,Moderate
+Weeding,Farm,Garlic,Aditii,aditi_irrigate,2027-05-18,,,Critical
+Harvesting,Farm 1,Arugula,Ajay,ajay_task,2027-05-19,,,Moderate
+Irrigation,Kavita,Garlic,Manisha,Manishaa,2027-05-20,,,Moderate
+Irrigation,Tsyt Fartm,Capsicum,Abhishek 2,abhishek_rain,2027-05-21,,,Critical
+Irrigation,Tsyt Fartm,Cotton,Ajay,ajay_transport,2027-05-22,,,Normal
+Drenching,Kavita,Cow Pea,Ajith,ajith_green,2027-05-23,,,Normal
+Weeding,Farmhouse,Cluster Beans,Ajay,ajay_task,2027-05-24,,,Normal
+Other,Farmhouse,Amla,Aditii,aditi_irrigate,2027-05-25,,,Moderate
+Weeding,Farmhouse,Barley,Ajay,ajay_pollinate,2027-05-26,,,Moderate
+Irrigation,Farmhouse,Barley,Abhishek 2,abhishek_rain,2027-05-27,,,Critical
+Harvesting,Farm,Garlic,Ajay,ajay_pollinate,2027-05-28,,,Normal
+Sowing,Farmhouse,Chikoo,Aditii,aditi_irrigate,2027-05-29,,,Critical
+Harvesting,Tsyt Fartm,Brinjal (Normal),Ajay,ajay_pollinate,2027-05-30,,,Critical
+Irrigation,Farm 1,Bitter Gourd,Manisha,Manishaa,2027-05-31,,,Critical
+Weeding,Farm 1,Custard Apple,Mohan,Mohan1,2027-06-01,,,Critical
+Weeding,Farmhouse,Bottle Gourd,A Event Logging,a1,2027-06-02,,,Critical
+Harvesting,Tsyt Fartm,Chilli (Green),A Event Logging,a1,2027-06-03,,,Moderate
+Drenching,Kavita,Cotton,Mohan,Mohan1,2027-06-04,,,Normal
+Irrigation,Tsyt Fartm,Capsicum,Manisha,Manisha,2027-06-05,,,Normal
+Irrigation,Farm 1,Coriander,Manisha,Manisha,2027-06-06,,,Critical
+Drenching,Tsyt Fartm,Capsicum,Ajay,ajay_task,2027-06-07,,,Critical
+Weeding,Kavita,Celery,Manisha,Manishaa,2027-06-08,,,Critical
+Irrigation,Farmhouse,Bijora,Abhishek 2,abhishek_rain,2027-06-09,,,Critical
+Weeding,Farm,Bijora,Ajay,ajay_transport,2027-06-10,,,Moderate
+Irrigation,Farmhouse,Bottle Gourd,Mohan,Mohan1,2027-06-11,,,Critical
+Weeding,Farm 1,Brinjal (Long),Aditii,aditi_irrigate,2027-06-12,,,Moderate
+Drenching,Tsyt Fartm,Bajra,Ajay,ajay_transport,2027-06-13,,,Critical
+Field Preparation,Farm 1,Bijora,Mohan,Mohan_forecast,2027-06-14,,,Normal
+Weeding,Kavita,Cotton,Ajay,ajay_transport,2027-06-15,,,Normal
+Irrigation,Farm 1,Corn 2,Ajay,ajay_transport,2027-06-16,,,Normal
+Maintenance,Tsyt Fartm,Bottle Gourd,Ajay,ajay_pollinate,2027-06-17,,,Moderate
+Irrigation,Farm 1,Brinjal (Normal),Ajay,ajay_transport,2027-06-18,,,Normal
+Irrigation,Farm 1,Barley,Ajay,ajay_transport,2027-06-19,,,Normal
+Other,Tsyt Fartm,Brinjal (Long),Abhishek 2,abhishek_rain,2027-06-20,,,Normal
+Weeding,Farm,Corn 2,Abhishek 2,abhishek_rain,2027-06-21,,,Normal
+Maintenance,Tsyt Fartm,Bajra,A Event Logging,a1,2027-06-22,,,Normal
+Drenching,Farm 1,Cucumber,Mohan,Mohan_forecast,2027-06-23,,,Critical
+Weeding,Kavita,Barley,Manisha,Manisha,2027-06-24,,,Moderate
+Weeding,Tsyt Fartm,Chilli (Green),Mohan,Mohan_forecast,2027-06-25,,,Normal
+Drenching,Kavita,Chilli (Green),Aditii,aditi_irrigate,2027-06-26,,,Critical
+Sowing,Farm 1,Coriander,Mohan,Mohan1,2027-06-27,,,Moderate
+Harvesting,Farmhouse,Garlic,Ajay,ajay_pollinate,2027-06-28,,,Moderate
+Weeding,Farm,Barley,Mohan,Mohan_forecast,2027-06-29,,,Normal
+Harvesting,Farm,Brinjal (Normal),Mohan,Mohan1,2027-06-30,,,Moderate
+Irrigation,Farmhouse,Garlic,Manisha,Manisha,2027-07-01,,,Normal
+Harvesting,Farmhouse,Bajra,Aditii,aditi_irrigate,2027-07-02,,,Critical
+Harvesting,Farmhouse,Fenugreek,Mohan,Mohan_forecast,2027-07-03,,,Critical
+Sowing,Kavita,Cotton,A Event Logging,a1,2027-07-04,,,Moderate
+Field Preparation,Kavita,Custard Apple,Mohan,Mohan_forecast,2027-07-05,,,Moderate
+Maintenance,Farmhouse,Amla,A Event Logging,a1,2027-07-06,,,Critical
+Field Preparation,Farm,Crop Testing,Manisha,Manishaa,2027-07-07,,,Critical
+Sowing,Tsyt Fartm,Bitter Gourd,Mohan,Mohan1,2027-07-08,,,Normal
+Maintenance,Farm,Chilli (Big),A Event Logging,a1,2027-07-09,,,Normal
+Drenching,Farm 1,Brinjal (Long),Mohan,Mohan1,2027-07-10,,,Normal
+Other,Farm,Cluster Beans,Ajay,ajay_transport,2027-07-11,,,Critical
+Harvesting,Farm 1,Amla,Abhishek 2,abhishek_rain,2027-07-12,,,Moderate
+Other,Farm 1,Celery,A Event Logging,a1,2027-07-13,,,Normal
+Drenching,Farm 1,Bitter Gourd,Aditii,aditi_irrigate,2027-07-14,,,Normal
+Weeding,Farm,Amla,Aditii,aditi_irrigate,2027-07-15,,,Critical
+Field Preparation,Farm,Cotton,Aditii,aditi_irrigate,2027-07-16,,,Moderate
+Weeding,Farm,Cucumber,Mohan,Mohan_forecast,2027-07-17,,,Critical
+Other,Kavita,Crop Testing,Abhishek 2,abhishek_rain,2027-07-18,,,Normal
+Weeding,Kavita,Chilli (Big),Ajith,ajith_green,2027-07-19,,,Critical
+Harvesting,Kavita,Custard Apple,Aditii,aditi_irrigate,2027-07-20,,,Normal
+Other,Farm,Corn 2,Manisha,Manisha,2027-07-21,,,Moderate
+Sowing,Farmhouse,Barley,Ajay,ajay_task,2027-07-22,,,Critical
+Irrigation,Kavita,Celery,Ajay,ajay_task,2027-07-23,,,Normal
+Maintenance,Kavita,Bijora,Mohan,Mohan1,2027-07-24,,,Critical
+Sowing,Farm 1,Bijora,Ajay,ajay_transport,2027-07-25,,,Normal
+Drenching,Farm 1,Brinjal (Normal),Manisha,Manishaa,2027-07-26,,,Moderate
+Other,Farm 1,Arugula,Mohan,Mohan_forecast,2027-07-27,,,Moderate
+Other,Tsyt Fartm,Cucumber,Manisha,Manisha,2027-07-28,,,Critical
+Other,Tsyt Fartm,Chikoo,Farmer,Farmer,2027-07-29,,,Critical
+Drenching,Farm,Garlic,Mohan,Mohan1,2027-07-30,,,Normal
+Weeding,Kavita,Cotton,Mohan,Mohan_forecast,2027-07-31,,,Normal
+Harvesting,Farmhouse,Bijora,Ajay,ajay_transport,2027-08-01,,,Moderate
+Maintenance,Farm 1,Chilli (Green),Abhishek 2,abhishek_rain,2027-08-02,,,Critical
+Field Preparation,Farmhouse,Chikoo,A Event Logging,a1,2027-08-03,,,Moderate
+Sowing,Farm 1,Brinjal (Normal),Manisha,Manisha,2027-08-04,,,Normal
+Weeding,Farmhouse,Bitter Gourd,Ajith,ajith_green,2027-08-05,,,Moderate
+Other,Farm 1,Bitter Gourd,Ajay,ajay_transport,2027-08-06,,,Critical
+Other,Farmhouse,Coriander,Mohan,Mohan1,2027-08-07,,,Normal
+Irrigation,Farm,Curry Leaves,Abhishek 2,abhishek_rain,2027-08-08,,,Normal
+Harvesting,Tsyt Fartm,Amla,Mohan,Mohan1,2027-08-09,,,Critical
+Irrigation,Kavita,Crop Testing,Ajith,ajith_green,2027-08-10,,,Normal
+Weeding,Farmhouse,Amla,Mohan,Mohan1,2027-08-11,,,Normal
+Maintenance,Farm,Corn 2,Ajay,ajay_task,2027-08-12,,,Normal
+Sowing,Kavita,Cluster Beans,A Event Logging,a1,2027-08-13,,,Normal
+Sowing,Kavita,Brinjal (Normal),Mohan,Mohan_forecast,2027-08-14,,,Critical
+Sowing,Kavita,Cow Pea,Mohan,Mohan1,2027-08-15,,,Critical
+Other,Farm,Capsicum,Abhishek 2,abhishek_rain,2027-08-16,,,Moderate
+Irrigation,Tsyt Fartm,Amla,Mohan,Mohan_forecast,2027-08-17,,,Critical
+Sowing,Farm,Cotton,Aditii,aditi_irrigate,2027-08-18,,,Moderate
+Other,Farmhouse,Cluster Beans,Mohan,Mohan1,2027-08-19,,,Critical
+Weeding,Farmhouse,Bottle Gourd,Mohan,Mohan1,2027-08-20,,,Critical
+Other,Farm,Bajra,Ajith,ajith_green,2027-08-21,,,Normal
+Drenching,Kavita,Bottle Gourd,Ajay,ajay_pollinate,2027-08-22,,,Normal
+Field Preparation,Farm,Coriander,Manisha,Manishaa,2027-08-23,,,Moderate
+Weeding,Farm 1,Coriander,Mohan,Mohan1,2027-08-24,,,Critical
+Harvesting,Kavita,Crop Testing,Manisha,Manisha,2027-08-25,,,Moderate
+Sowing,Kavita,Curry Leaves,Ajay,ajay_pollinate,2027-08-26,,,Moderate
+Maintenance,Tsyt Fartm,Coriander,Mohan,Mohan_forecast,2027-08-27,,,Normal
+Other,Farmhouse,Fenugreek,A Event Logging,a1,2027-08-28,,,Critical
+Weeding,Farm,Brinjal (Long),Ajay,ajay_pollinate,2027-08-29,,,Moderate
+Weeding,Kavita,Cucumber,Ajay,ajay_task,2027-08-30,,,Critical
+Field Preparation,Farmhouse,Brinjal (Normal),Ajay,ajay_task,2027-08-31,,,Moderate
+Other,Farmhouse,Cucumber,Aditii,aditi_irrigate,2027-09-01,,,Normal
+Sowing,Farmhouse,Custard Apple,Manisha,Manishaa,2027-09-02,,,Moderate
+Field Preparation,Tsyt Fartm,Bottle Gourd,Aditii,aditi_irrigate,2027-09-03,,,Normal
+Sowing,Farmhouse,Bajra,Mohan,Mohan1,2027-09-04,,,Moderate
+Harvesting,Farm 1,Barley,A Event Logging,a1,2027-09-05,,,Normal
+Irrigation,Farm,Brinjal (Long),Ajith,ajith_green,2027-09-06,,,Moderate
+Field Preparation,Farmhouse,Coriander,Abhishek 2,abhishek_rain,2027-09-07,,,Normal
+Weeding,Tsyt Fartm,Barley,Mohan,Mohan_forecast,2027-09-08,,,Critical
+Field Preparation,Kavita,Capsicum,Ajith,ajith_green,2027-09-09,,,Normal
+Sowing,Farmhouse,Brinjal (Long),Ajith,ajith_green,2027-09-10,,,Normal
+Maintenance,Farm 1,Custard Apple,Ajay,ajay_task,2027-09-11,,,Moderate
+Harvesting,Farm,Barley,Mohan,Mohan_forecast,2027-09-12,,,Normal
+Harvesting,Kavita,Curry Leaves,Mohan,Mohan1,2027-09-13,,,Moderate
+Drenching,Tsyt Fartm,Cotton,Ajith,ajith_green,2027-09-14,,,Moderate
+Weeding,Farmhouse,Bottle Gourd,Mohan,Mohan1,2027-09-15,,,Normal
+Irrigation,Kavita,Amla,Aditii,aditi_irrigate,2027-09-16,,,Critical
+Harvesting,Tsyt Fartm,Cluster Beans,Ajay,ajay_transport,2027-09-17,,,Critical
+Harvesting,Farm,Cucumber,Ajay,ajay_pollinate,2027-09-18,,,Normal
+Harvesting,Farm 1,Curry Leaves,Aditii,aditi_irrigate,2027-09-19,,,Normal
+Drenching,Kavita,Curry Leaves,Mohan,Mohan1,2027-09-20,,,Moderate
+Weeding,Tsyt Fartm,Corn 2,Mohan,Mohan1,2027-09-21,,,Critical
+Irrigation,Tsyt Fartm,Garlic,Ajay,ajay_transport,2027-09-22,,,Moderate
+Sowing,Farm 1,Bottle Gourd,Ajay,ajay_task,2027-09-23,,,Moderate
+Irrigation,Farm,Fenugreek,Ajay,ajay_transport,2027-09-24,,,Normal
+Other,Tsyt Fartm,Coriander,Mohan,Mohan1,2027-09-25,,,Normal
+Irrigation,Kavita,Fenugreek,Ajay,ajay_transport,2027-09-26,,,Moderate
+Maintenance,Farm,Bijora,Ajay,ajay_transport,2027-09-27,,,Moderate
+Field Preparation,Tsyt Fartm,Celery,Aditii,aditi_irrigate,2027-09-28,,,Moderate
+Sowing,Kavita,Chikoo,Manisha,Manisha,2027-09-29,,,Critical
+Sowing,Farm 1,Corn,A Event Logging,a1,2027-09-30,,,Critical
+Sowing,Farm,Brinjal (Long),Aditii,aditi_irrigate,2027-10-01,,,Moderate
+Sowing,Farmhouse,Curry Leaves,Aditii,aditi_irrigate,2027-10-02,,,Moderate
+Harvesting,Farm,Cluster Beans,Ajay,ajay_task,2027-10-03,,,Normal
+Weeding,Farm,Barley,Manisha,Manishaa,2027-10-04,,,Critical
+Sowing,Farm 1,Fenugreek,Ajay,ajay_pollinate,2027-10-05,,,Normal
+Harvesting,Kavita,Corn 2,Ajith,ajith_green,2027-10-06,,,Critical
+Irrigation,Farmhouse,Brinjal (Long),Farmer,Farmer,2027-10-07,,,Moderate
+Drenching,Farm 1,Cotton,Mohan,Mohan1,2027-10-08,,,Normal
+Sowing,Tsyt Fartm,Crop Testing,Manisha,Manisha,2027-10-09,,,Normal
+Sowing,Farm,Celery,Mohan,Mohan_forecast,2027-10-10,,,Critical
+Irrigation,Farm 1,Bajra,Ajay,ajay_pollinate,2027-10-11,,,Normal
+Sowing,Farm 1,Chilli (Green),Ajay,ajay_pollinate,2027-10-12,,,Normal
+Weeding,Farm,Cow Pea,Aditii,aditi_irrigate,2027-10-13,,,Critical
+Other,Tsyt Fartm,Bajra,Ajay,ajay_transport,2027-10-14,,,Moderate
+Harvesting,Farm 1,Corn,A Event Logging,a1,2027-10-15,,,Moderate
+Other,Kavita,Bottle Gourd,Manisha,Manishaa,2027-10-16,,,Critical
+Weeding,Farmhouse,Chikoo,A Event Logging,a1,2027-10-17,,,Moderate
+Harvesting,Farmhouse,Brinjal (Long),Ajay,ajay_task,2027-10-18,,,Critical
+Maintenance,Farmhouse,Coriander,Mohan,Mohan_forecast,2027-10-19,,,Normal
+Harvesting,Farmhouse,Chilli (Green),Abhishek 2,abhishek_rain,2027-10-20,,,Normal
+Other,Farm 1,Curry Leaves,Mohan,Mohan1,2027-10-21,,,Moderate
+Irrigation,Tsyt Fartm,Coriander,Ajay,ajay_task,2027-10-22,,,Critical
+Other,Kavita,Arugula,Aditii,aditi_irrigate,2027-10-23,,,Critical
+Irrigation,Farmhouse,Cluster Beans,Manisha,Manisha,2027-10-24,,,Moderate
+Field Preparation,Farm,Chilli (Green),Aditii,aditi_irrigate,2027-10-25,,,Moderate
+Maintenance,Farmhouse,Fenugreek,Manisha,Manishaa,2027-10-26,,,Normal
+Other,Kavita,Amla,Mohan,Mohan_forecast,2027-10-27,,,Normal
+Drenching,Farmhouse,Fenugreek,Manisha,Manisha,2027-10-28,,,Critical
+Sowing,Tsyt Fartm,Curry Leaves,Ajith,ajith_green,2027-10-29,,,Moderate
+Irrigation,Kavita,Brinjal (Long),Abhishek 2,abhishek_rain,2027-10-30,,,Moderate
+Irrigation,Farmhouse,Crop Testing,Manisha,Manishaa,2027-10-31,,,Normal
+Drenching,Tsyt Fartm,Brinjal (Normal),Ajith,ajith_green,2027-11-01,,,Moderate
+Field Preparation,Tsyt Fartm,Corn 2,Mohan,Mohan1,2027-11-02,,,Critical
+Irrigation,Farm,Coriander,Abhishek 2,abhishek_rain,2027-11-03,,,Normal
+Irrigation,Farmhouse,Coriander,Ajay,ajay_pollinate,2027-11-04,,,Normal
+Field Preparation,Farm,Custard Apple,Manisha,Manishaa,2027-11-05,,,Critical
+Weeding,Tsyt Fartm,Arugula,Ajay,ajay_transport,2027-11-06,,,Moderate
+Harvesting,Farmhouse,Chikoo,Ajay,ajay_transport,2027-11-07,,,Critical
+Sowing,Farm 1,Celery,A Event Logging,a1,2027-11-08,,,Critical
+Sowing,Kavita,Cucumber,Mohan,Mohan_forecast,2027-11-09,,,Normal
+Field Preparation,Kavita,Celery,Abhishek 2,abhishek_rain,2027-11-10,,,Moderate
+Harvesting,Farmhouse,Capsicum,Ajay,ajay_pollinate,2027-11-11,,,Moderate
+Sowing,Farmhouse,Chikoo,Ajay,ajay_task,2027-11-12,,,Critical
+Field Preparation,Farmhouse,Coriander,Manisha,Manisha,2027-11-13,,,Moderate
+Maintenance,Farm,Chilli (Green),Ajay,ajay_transport,2027-11-14,,,Moderate
+Field Preparation,Farmhouse,Cluster Beans,Abhishek 2,abhishek_rain,2027-11-15,,,Moderate
+Drenching,Tsyt Fartm,Capsicum,Ajay,ajay_transport,2027-11-16,,,Critical
+Sowing,Tsyt Fartm,Chilli (Green),Mohan,Mohan_forecast,2027-11-17,,,Moderate
+Maintenance,Farmhouse,Fenugreek,Mohan,Mohan_forecast,2027-11-18,,,Moderate
+Weeding,Tsyt Fartm,Corn,Manisha,Manisha,2027-11-19,,,Critical
+Other,Kavita,Coriander,Mohan,Mohan1,2027-11-20,,,Moderate
+Sowing,Kavita,Chilli (Green),Mohan,Mohan_forecast,2027-11-21,,,Moderate
+Other,Farmhouse,Crop Testing,Aditii,aditi_irrigate,2027-11-22,,,Moderate
+Drenching,Farm,Celery,A Event Logging,a1,2027-11-23,,,Normal
+Irrigation,Kavita,Corn,Mohan,Mohan1,2027-11-24,,,Moderate
+Sowing,Farmhouse,Cotton,Ajay,ajay_task,2027-11-25,,,Moderate
+Sowing,Farm 1,Fenugreek,A Event Logging,a1,2027-11-26,,,Moderate
+Drenching,Farm 1,Corn 2,Ajith,ajith_green,2027-11-27,,,Normal
+Maintenance,Farm 1,Curry Leaves,Abhishek 2,abhishek_rain,2027-11-28,,,Critical
+Maintenance,Farm 1,Bitter Gourd,Ajay,ajay_pollinate,2027-11-29,,,Critical
+Harvesting,Kavita,Chikoo,Ajay,ajay_pollinate,2027-11-30,,,Critical
+Maintenance,Farm 1,Cucumber,Ajay,ajay_transport,2027-12-01,,,Critical
+Sowing,Tsyt Fartm,Bajra,Ajay,ajay_pollinate,2027-12-02,,,Normal
+Maintenance,Farm,Corn 2,Mohan,Mohan_forecast,2027-12-03,,,Critical
+Weeding,Kavita,Chilli (Green),Manisha,Manishaa,2027-12-04,,,Critical
+Other,Farm 1,Cluster Beans,Manisha,Manisha,2027-12-05,,,Normal
+Field Preparation,Tsyt Fartm,Bijora,Abhishek 2,abhishek_rain,2027-12-06,,,Normal
+Sowing,Kavita,Bottle Gourd,Ajay,ajay_transport,2027-12-07,,,Normal
+Drenching,Farmhouse,Cotton,Aditii,aditi_irrigate,2027-12-08,,,Normal
+Sowing,Tsyt Fartm,Corn 2,Aditii,aditi_irrigate,2027-12-09,,,Normal
+Drenching,Farm 1,Corn 2,Aditii,aditi_irrigate,2027-12-10,,,Moderate
+Sowing,Farm 1,Bottle Gourd,Manisha,Manisha,2027-12-11,,,Moderate
+Sowing,Farm 1,Chilli (Green),Ajay,ajay_transport,2027-12-12,,,Moderate
+Weeding,Kavita,Celery,Ajith,ajith_green,2027-12-13,,,Critical
+Sowing,Kavita,Bajra,Ajay,ajay_transport,2027-12-14,,,Critical
+Irrigation,Farmhouse,Cotton,Aditii,aditi_irrigate,2027-12-15,,,Moderate
+Weeding,Farm,Fenugreek,Ajith,ajith_green,2027-12-16,,,Normal
+Sowing,Farm,Fenugreek,Mohan,Mohan_forecast,2027-12-17,,,Normal
+Maintenance,Farm,Garlic,Abhishek 2,abhishek_rain,2027-12-18,,,Critical
+Other,Farm 1,Corn,Aditii,aditi_irrigate,2027-12-19,,,Moderate
+Field Preparation,Farm,Arugula,Ajith,ajith_green,2027-12-20,,,Moderate
+Weeding,Tsyt Fartm,Cluster Beans,Farmer,Farmer,2027-12-21,,,Normal
+Harvesting,Kavita,Amla,Ajay,ajay_transport,2027-12-22,,,Moderate
+Other,Farm,Barley,Ajay,ajay_transport,2027-12-23,,,Moderate
+Sowing,Tsyt Fartm,Chikoo,Ajith,ajith_green,2027-12-24,,,Critical
+Maintenance,Farm,Crop Testing,Manisha,Manisha,2027-12-25,,,Normal
+Weeding,Tsyt Fartm,Bijora,Abhishek 2,abhishek_rain,2027-12-26,,,Normal
+Sowing,Kavita,Corn,Mohan,Mohan_forecast,2027-12-27,,,Moderate
+Maintenance,Farmhouse,Coriander,Ajay,ajay_task,2027-12-28,,,Critical
+Field Preparation,Farm,Cucumber,Mohan,Mohan_forecast,2027-12-29,,,Moderate
+Drenching,Farm,Capsicum,Mohan,Mohan1,2027-12-30,,,Normal
+Harvesting,Tsyt Fartm,Amla,Ajith,ajith_green,2027-12-31,,,Moderate
+Drenching,Farm,Brinjal (Long),Aditii,aditi_irrigate,2028-01-01,,,Critical
+Other,Farmhouse,Chikoo,Abhishek 2,abhishek_rain,2028-01-02,,,Normal
+Sowing,Kavita,Bijora,Ajay,ajay_transport,2028-01-03,,,Normal
+Sowing,Farm,Cluster Beans,Ajay,ajay_pollinate,2028-01-04,,,Normal
+Sowing,Farmhouse,Amla,Manisha,Manisha,2028-01-05,,,Critical
+Maintenance,Farmhouse,Barley,Farmer,Farmer,2028-01-06,,,Moderate
+Weeding,Kavita,Celery,Aditii,aditi_irrigate,2028-01-07,,,Critical
+Field Preparation,Tsyt Fartm,Curry Leaves,A Event Logging,a1,2028-01-08,,,Normal
+Other,Kavita,Chilli (Green),Aditii,aditi_irrigate,2028-01-09,,,Normal
+Other,Kavita,Chikoo,Ajay,ajay_pollinate,2028-01-10,,,Normal
+Drenching,Farm,Brinjal (Long),Aditii,aditi_irrigate,2028-01-11,,,Critical
+Maintenance,Kavita,Brinjal (Normal),Manisha,Manishaa,2028-01-12,,,Critical
+Drenching,Farm,Celery,Ajay,ajay_pollinate,2028-01-13,,,Moderate
+Drenching,Tsyt Fartm,Garlic,Farmer,Farmer,2028-01-14,,,Moderate
+Irrigation,Farm,Bitter Gourd,Mohan,Mohan_forecast,2028-01-15,,,Moderate
+Irrigation,Farmhouse,Brinjal (Normal),A Event Logging,a1,2028-01-16,,,Critical
+Maintenance,Kavita,Chikoo,Manisha,Manishaa,2028-01-17,,,Normal
+Field Preparation,Tsyt Fartm,Chilli (Big),Mohan,Mohan_forecast,2028-01-18,,,Critical
+Irrigation,Farmhouse,Brinjal (Long),Manisha,Manishaa,2028-01-19,,,Critical
+Drenching,Farm 1,Barley,Ajay,ajay_transport,2028-01-20,,,Normal
+Irrigation,Farm,Capsicum,Manisha,Manisha,2028-01-21,,,Moderate
+Harvesting,Kavita,Corn,Ajay,ajay_transport,2028-01-22,,,Moderate
+Field Preparation,Farm 1,Curry Leaves,Ajay,ajay_task,2028-01-23,,,Moderate
+Harvesting,Farm 1,Cluster Beans,Ajay,ajay_task,2028-01-24,,,Moderate
+Irrigation,Kavita,Fenugreek,Ajay,ajay_task,2028-01-25,,,Critical
+Sowing,Farmhouse,Bajra,Manisha,Manishaa,2028-01-26,,,Moderate
+Harvesting,Kavita,Corn,Ajay,ajay_task,2028-01-27,,,Critical
+Weeding,Farm 1,Bajra,Ajay,ajay_pollinate,2028-01-28,,,Normal
+Drenching,Farm 1,Amla,Manisha,Manisha,2028-01-29,,,Normal
+Field Preparation,Kavita,Bitter Gourd,Farmer,Farmer,2028-01-30,,,Normal
+Other,Tsyt Fartm,Brinjal (Long),Ajay,ajay_task,2028-01-31,,,Critical
+Weeding,Farm 1,Bijora,Farmer,Farmer,2028-02-01,,,Moderate
+Weeding,Farmhouse,Barley,Ajith,ajith_green,2028-02-02,,,Normal
+Field Preparation,Farmhouse,Chikoo,Ajay,ajay_task,2028-02-03,,,Critical
+Other,Farm,Brinjal (Long),Ajith,ajith_green,2028-02-04,,,Critical
+Other,Farmhouse,Cow Pea,Mohan,Mohan_forecast,2028-02-05,,,Moderate
+Harvesting,Tsyt Fartm,Brinjal (Long),Mohan,Mohan1,2028-02-06,,,Moderate
+Field Preparation,Tsyt Fartm,Arugula,Manisha,Manisha,2028-02-07,,,Critical
+Maintenance,Farm,Cucumber,Abhishek 2,abhishek_rain,2028-02-08,,,Moderate
+Sowing,Farm 1,Curry Leaves,Abhishek 2,abhishek_rain,2028-02-09,,,Normal
+Harvesting,Farm,Coriander,Ajay,ajay_transport,2028-02-10,,,Normal
+Field Preparation,Farm 1,Cucumber,Ajay,ajay_task,2028-02-11,,,Normal
+Irrigation,Farm 1,Bottle Gourd,Abhishek 2,abhishek_rain,2028-02-12,,,Critical
+Field Preparation,Farmhouse,Brinjal (Normal),Mohan,Mohan1,2028-02-13,,,Normal
+Maintenance,Farm 1,Curry Leaves,Ajay,ajay_transport,2028-02-14,,,Moderate
+Field Preparation,Kavita,Celery,Ajay,ajay_task,2028-02-15,,,Normal
+Other,Farmhouse,Celery,Aditii,aditi_irrigate,2028-02-16,,,Moderate
+Maintenance,Farmhouse,Custard Apple,Ajith,ajith_green,2028-02-17,,,Normal
+Other,Farm 1,Crop Testing,Manisha,Manisha,2028-02-18,,,Critical
+Sowing,Tsyt Fartm,Celery,Farmer,Farmer,2028-02-19,,,Normal
+Field Preparation,Tsyt Fartm,Chilli (Big),Manisha,Manisha,2028-02-20,,,Moderate
+Sowing,Kavita,Cotton,Mohan,Mohan1,2028-02-21,,,Critical
+Weeding,Tsyt Fartm,Bijora,Ajay,ajay_task,2028-02-22,,,Critical
+Maintenance,Kavita,Garlic,Manisha,Manishaa,2028-02-23,,,Critical
+Drenching,Farmhouse,Curry Leaves,Farmer,Farmer,2028-02-24,,,Moderate
+Drenching,Tsyt Fartm,Bitter Gourd,Manisha,Manishaa,2028-02-25,,,Moderate
+Field Preparation,Farm 1,Bottle Gourd,Aditii,aditi_irrigate,2028-02-26,,,Normal
+Weeding,Farmhouse,Bitter Gourd,Farmer,Farmer,2028-02-27,,,Critical
+Drenching,Tsyt Fartm,Brinjal (Normal),Manisha,Manisha,2028-02-28,,,Critical
+Sowing,Farm 1,Custard Apple,Manisha,Manisha,2028-02-29,,,Critical
+Other,Farm 1,Chilli (Big),Manisha,Manishaa,2028-03-01,,,Normal
+Weeding,Farm,Cucumber,Farmer,Farmer,2028-03-02,,,Normal
+Irrigation,Tsyt Fartm,Curry Leaves,Ajay,ajay_pollinate,2028-03-03,,,Critical
+Other,Farmhouse,Chikoo,Ajay,ajay_task,2028-03-04,,,Moderate
+Harvesting,Kavita,Corn 2,A Event Logging,a1,2028-03-05,,,Critical
+Sowing,Kavita,Cow Pea,Ajith,ajith_green,2028-03-06,,,Critical
+Drenching,Tsyt Fartm,Arugula,Ajith,ajith_green,2028-03-07,,,Critical
+Harvesting,Farmhouse,Corn,Ajay,ajay_task,2028-03-08,,,Moderate
+Irrigation,Tsyt Fartm,Chikoo,Ajay,ajay_pollinate,2028-03-09,,,Critical
+Sowing,Farm,Fenugreek,Ajith,ajith_green,2028-03-10,,,Moderate
+Harvesting,Farm 1,Chilli (Green),Abhishek 2,abhishek_rain,2028-03-11,,,Normal
+Field Preparation,Farm,Crop Testing,Mohan,Mohan_forecast,2028-03-12,,,Moderate
+Field Preparation,Farm,Bottle Gourd,Manisha,Manishaa,2028-03-13,,,Moderate
+Other,Farm,Custard Apple,Ajay,ajay_task,2028-03-14,,,Critical
+Field Preparation,Farmhouse,Custard Apple,A Event Logging,a1,2028-03-15,,,Normal
+Maintenance,Farm,Brinjal (Normal),Abhishek 2,abhishek_rain,2028-03-16,,,Critical
+Field Preparation,Farm 1,Cucumber,Ajay,ajay_pollinate,2028-03-17,,,Moderate
+Sowing,Farmhouse,Cow Pea,A Event Logging,a1,2028-03-18,,,Moderate
+Drenching,Farm,Garlic,Ajith,ajith_green,2028-03-19,,,Normal
+Sowing,Farmhouse,Chilli (Big),A Event Logging,a1,2028-03-20,,,Normal
+Drenching,Farm,Bijora,Mohan,Mohan1,2028-03-21,,,Normal
+Harvesting,Kavita,Cotton,Ajith,ajith_green,2028-03-22,,,Critical
+Harvesting,Farm 1,Barley,Ajay,ajay_transport,2028-03-23,,,Critical
+Other,Farm,Bottle Gourd,Ajay,ajay_transport,2028-03-24,,,Normal
+Other,Farm,Amla,Ajay,ajay_transport,2028-03-25,,,Moderate
+Harvesting,Farmhouse,Cow Pea,Manisha,Manishaa,2028-03-26,,,Critical
+Irrigation,Farm 1,Bajra,Manisha,Manisha,2028-03-27,,,Normal
+Maintenance,Kavita,Curry Leaves,Farmer,Farmer,2028-03-28,,,Critical
+Maintenance,Farm 1,Crop Testing,Ajay,ajay_transport,2028-03-29,,,Critical
+Drenching,Farm,Chilli (Green),Ajay,ajay_transport,2028-03-30,,,Moderate
+Drenching,Farm,Cotton,A Event Logging,a1,2028-03-31,,,Critical
+Weeding,Farmhouse,Cucumber,Ajith,ajith_green,2028-04-01,,,Critical
+Weeding,Farmhouse,Fenugreek,A Event Logging,a1,2028-04-02,,,Critical
+Weeding,Farmhouse,Corn 2,Abhishek 2,abhishek_rain,2028-04-03,,,Critical
+Weeding,Kavita,Bottle Gourd,Manisha,Manisha,2028-04-04,,,Moderate
+Weeding,Tsyt Fartm,Cluster Beans,Ajay,ajay_task,2028-04-05,,,Normal
+Irrigation,Kavita,Coriander,Mohan,Mohan1,2028-04-06,,,Moderate
+Sowing,Farmhouse,Curry Leaves,Ajay,ajay_transport,2028-04-07,,,Normal
+Harvesting,Kavita,Garlic,Ajay,ajay_task,2028-04-08,,,Moderate
+Maintenance,Tsyt Fartm,Custard Apple,Ajay,ajay_transport,2028-04-09,,,Moderate
+Irrigation,Kavita,Fenugreek,Farmer,Farmer,2028-04-10,,,Critical
+Weeding,Kavita,Brinjal (Long),Ajay,ajay_transport,2028-04-11,,,Moderate
+Drenching,Farm,Capsicum,Ajay,ajay_pollinate,2028-04-12,,,Critical
+Sowing,Kavita,Chikoo,Ajay,ajay_transport,2028-04-13,,,Normal
+Other,Kavita,Curry Leaves,Aditii,aditi_irrigate,2028-04-14,,,Normal
+Field Preparation,Tsyt Fartm,Arugula,A Event Logging,a1,2028-04-15,,,Critical
+Irrigation,Farmhouse,Brinjal (Long),Ajay,ajay_task,2028-04-16,,,Moderate
+Other,Farm,Chilli (Green),Manisha,Manishaa,2028-04-17,,,Normal
+Weeding,Kavita,Coriander,Mohan,Mohan_forecast,2028-04-18,,,Moderate
+Harvesting,Farm,Capsicum,Farmer,Farmer,2028-04-19,,,Moderate
+Irrigation,Tsyt Fartm,Amla,A Event Logging,a1,2028-04-20,,,Moderate
+Field Preparation,Kavita,Barley,Mohan,Mohan_forecast,2028-04-21,,,Normal
+Harvesting,Farm 1,Crop Testing,Ajay,ajay_task,2028-04-22,,,Moderate
+Field Preparation,Farm 1,Curry Leaves,Mohan,Mohan_forecast,2028-04-23,,,Moderate
+Maintenance,Farm 1,Cluster Beans,Ajay,ajay_task,2028-04-24,,,Moderate
+Field Preparation,Farmhouse,Cluster Beans,Ajith,ajith_green,2028-04-25,,,Moderate
+Sowing,Tsyt Fartm,Garlic,Manisha,Manishaa,2028-04-26,,,Moderate
+Harvesting,Farm 1,Bajra,Abhishek 2,abhishek_rain,2028-04-27,,,Critical
+Irrigation,Farm,Bottle Gourd,Ajith,ajith_green,2028-04-28,,,Critical
+Harvesting,Farm,Cluster Beans,Mohan,Mohan_forecast,2028-04-29,,,Normal
+Harvesting,Kavita,Brinjal (Normal),Ajay,ajay_task,2028-04-30,,,Moderate
+Maintenance,Tsyt Fartm,Garlic,Aditii,aditi_irrigate,2028-05-01,,,Normal
+Harvesting,Farmhouse,Bijora,Manisha,Manishaa,2028-05-02,,,Normal
+Field Preparation,Farm,Bottle Gourd,Farmer,Farmer,2028-05-03,,,Normal
+Harvesting,Kavita,Bitter Gourd,A Event Logging,a1,2028-05-04,,,Normal
+Other,Farm,Fenugreek,Ajay,ajay_transport,2028-05-05,,,Normal
+Harvesting,Farm 1,Celery,Manisha,Manisha,2028-05-06,,,Normal
+Irrigation,Farm 1,Amla,Manisha,Manisha,2028-05-07,,,Normal
+Irrigation,Tsyt Fartm,Corn 2,Manisha,Manisha,2028-05-08,,,Critical
+Harvesting,Tsyt Fartm,Chikoo,Aditii,aditi_irrigate,2028-05-09,,,Moderate
+Sowing,Kavita,Garlic,Mohan,Mohan_forecast,2028-05-10,,,Critical
+Maintenance,Tsyt Fartm,Fenugreek,Ajay,ajay_pollinate,2028-05-11,,,Normal
+Other,Kavita,Corn,Manisha,Manisha,2028-05-12,,,Moderate
+Weeding,Tsyt Fartm,Bajra,Abhishek 2,abhishek_rain,2028-05-13,,,Critical
+Other,Farm,Bitter Gourd,Mohan,Mohan_forecast,2028-05-14,,,Critical
+Other,Farm,Coriander,Ajay,ajay_task,2028-05-15,,,Critical
+Field Preparation,Farm 1,Bijora,Ajay,ajay_task,2028-05-16,,,Critical
+Other,Kavita,Bitter Gourd,Ajay,ajay_task,2028-05-17,,,Normal
+Other,Farm 1,Bajra,Farmer,Farmer,2028-05-18,,,Normal
+Irrigation,Farm,Cluster Beans,Mohan,Mohan1,2028-05-19,,,Normal
+Drenching,Farmhouse,Corn,Mohan,Mohan_forecast,2028-05-20,,,Moderate
+Weeding,Farmhouse,Cow Pea,Mohan,Mohan_forecast,2028-05-21,,,Normal
+Irrigation,Kavita,Bijora,Aditii,aditi_irrigate,2028-05-22,,,Normal
+Irrigation,Farm,Corn 2,Ajay,ajay_task,2028-05-23,,,Normal
+Irrigation,Tsyt Fartm,Cow Pea,Manisha,Manishaa,2028-05-24,,,Normal
+Drenching,Farm,Cotton,Ajay,ajay_pollinate,2028-05-25,,,Normal
+Other,Farmhouse,Chilli (Big),Farmer,Farmer,2028-05-26,,,Normal
+Maintenance,Farm,Fenugreek,Manisha,Manisha,2028-05-27,,,Moderate
+Other,Kavita,Custard Apple,A Event Logging,a1,2028-05-28,,,Moderate
+Drenching,Farm,Chilli (Big),Ajay,ajay_task,2028-05-29,,,Moderate
+Drenching,Farm 1,Bijora,Mohan,Mohan1,2028-05-30,,,Normal
+Other,Farmhouse,Barley,Aditii,aditi_irrigate,2028-05-31,,,Normal
+Harvesting,Kavita,Custard Apple,Manisha,Manishaa,2028-06-01,,,Critical
+Harvesting,Tsyt Fartm,Celery,Manisha,Manisha,2028-06-02,,,Normal
+Harvesting,Tsyt Fartm,Amla,Mohan,Mohan_forecast,2028-06-03,,,Normal
+Weeding,Kavita,Celery,Ajay,ajay_pollinate,2028-06-04,,,Critical
+Drenching,Farm 1,Bottle Gourd,Farmer,Farmer,2028-06-05,,,Normal
+Irrigation,Farmhouse,Crop Testing,Aditii,aditi_irrigate,2028-06-06,,,Critical
+Maintenance,Farmhouse,Cotton,Farmer,Farmer,2028-06-07,,,Critical
+Other,Farm 1,Corn,Manisha,Manisha,2028-06-08,,,Critical
+Field Preparation,Farm 1,Coriander,Farmer,Farmer,2028-06-09,,,Moderate
+Maintenance,Farm,Bottle Gourd,Manisha,Manishaa,2028-06-10,,,Moderate
+Sowing,Farm 1,Garlic,Ajay,ajay_task,2028-06-11,,,Normal
+Harvesting,Tsyt Fartm,Cotton,Ajay,ajay_pollinate,2028-06-12,,,Critical
+Sowing,Kavita,Custard Apple,Mohan,Mohan1,2028-06-13,,,Normal
+Other,Farm 1,Corn 2,Ajith,ajith_green,2028-06-14,,,Normal
+Maintenance,Farm,Corn 2,Mohan,Mohan_forecast,2028-06-15,,,Moderate
+Field Preparation,Kavita,Bijora,Ajay,ajay_pollinate,2028-06-16,,,Critical
+Drenching,Farm 1,Celery,Ajay,ajay_transport,2028-06-17,,,Normal
+Harvesting,Farm,Barley,Ajay,ajay_pollinate,2028-06-18,,,Critical
+Maintenance,Farm 1,Corn,A Event Logging,a1,2028-06-19,,,Moderate
+Weeding,Farm,Bitter Gourd,Ajith,ajith_green,2028-06-20,,,Moderate
+Drenching,Farm,Barley,Manisha,Manishaa,2028-06-21,,,Critical
+Sowing,Farmhouse,Amla,Ajay,ajay_pollinate,2028-06-22,,,Critical
+Harvesting,Tsyt Fartm,Cluster Beans,Mohan,Mohan_forecast,2028-06-23,,,Normal
+Irrigation,Farm,Bijora,Farmer,Farmer,2028-06-24,,,Normal
+Harvesting,Farmhouse,Cucumber,Abhishek 2,abhishek_rain,2028-06-25,,,Normal
+Other,Farmhouse,Coriander,Aditii,aditi_irrigate,2028-06-26,,,Normal
+Other,Farmhouse,Chikoo,Farmer,Farmer,2028-06-27,,,Moderate
+Harvesting,Farm,Cotton,Abhishek 2,abhishek_rain,2028-06-28,,,Critical
+Drenching,Farm,Capsicum,Ajay,ajay_pollinate,2028-06-29,,,Normal
+Other,Farm,Cluster Beans,Mohan,Mohan_forecast,2028-06-30,,,Normal
+Weeding,Kavita,Curry Leaves,Manisha,Manisha,2028-07-01,,,Normal
+Sowing,Farm,Chikoo,A Event Logging,a1,2028-07-02,,,Normal
+Weeding,Kavita,Bijora,Ajay,ajay_transport,2028-07-03,,,Moderate
+Harvesting,Farm 1,Cow Pea,Ajay,ajay_pollinate,2028-07-04,,,Moderate
+Field Preparation,Farm,Chilli (Big),A Event Logging,a1,2028-07-05,,,Critical
+Weeding,Kavita,Bitter Gourd,Manisha,Manisha,2028-07-06,,,Normal
+Sowing,Kavita,Coriander,Aditii,aditi_irrigate,2028-07-07,,,Normal
+Harvesting,Kavita,Barley,Mohan,Mohan_forecast,2028-07-08,,,Critical
+Other,Farm 1,Cotton,Ajith,ajith_green,2028-07-09,,,Moderate
+Drenching,Kavita,Chilli (Big),Manisha,Manishaa,2028-07-10,,,Normal
+Field Preparation,Farmhouse,Cluster Beans,Ajay,ajay_transport,2028-07-11,,,Moderate
+Irrigation,Farmhouse,Chilli (Big),A Event Logging,a1,2028-07-12,,,Normal
+Weeding,Farm,Chilli (Big),Ajay,ajay_transport,2028-07-13,,,Critical
+Weeding,Farm 1,Cucumber,Farmer,Farmer,2028-07-14,,,Normal
+Irrigation,Farm 1,Chikoo,Ajay,ajay_pollinate,2028-07-15,,,Moderate
+Field Preparation,Farm 1,Crop Testing,Mohan,Mohan1,2028-07-16,,,Normal
+Field Preparation,Tsyt Fartm,Brinjal (Normal),Ajay,ajay_pollinate,2028-07-17,,,Moderate
+Other,Farmhouse,Capsicum,Aditii,aditi_irrigate,2028-07-18,,,Normal
+Irrigation,Farm,Crop Testing,Ajay,ajay_transport,2028-07-19,,,Moderate
+Weeding,Farmhouse,Fenugreek,Ajay,ajay_pollinate,2028-07-20,,,Moderate
+Sowing,Farm,Garlic,Farmer,Farmer,2028-07-21,,,Moderate
+Other,Kavita,Capsicum,Manisha,Manishaa,2028-07-22,,,Critical
+Drenching,Kavita,Brinjal (Normal),Abhishek 2,abhishek_rain,2028-07-23,,,Normal
+Irrigation,Farm 1,Cucumber,Mohan,Mohan1,2028-07-24,,,Normal
+Maintenance,Farm 1,Coriander,Farmer,Farmer,2028-07-25,,,Moderate
+Irrigation,Tsyt Fartm,Fenugreek,Ajay,ajay_task,2028-07-26,,,Moderate
+Weeding,Farm,Bitter Gourd,Abhishek 2,abhishek_rain,2028-07-27,,,Normal
+Harvesting,Farm 1,Curry Leaves,Ajay,ajay_transport,2028-07-28,,,Critical
+Harvesting,Farm,Arugula,A Event Logging,a1,2028-07-29,,,Normal
+Weeding,Tsyt Fartm,Cotton,A Event Logging,a1,2028-07-30,,,Moderate
+Field Preparation,Kavita,Coriander,Mohan,Mohan1,2028-07-31,,,Normal
+Sowing,Kavita,Fenugreek,Mohan,Mohan_forecast,2028-08-01,,,Normal
+Weeding,Farmhouse,Fenugreek,Manisha,Manishaa,2028-08-02,,,Normal
+Other,Tsyt Fartm,Chilli (Green),Manisha,Manisha,2028-08-03,,,Normal
+Field Preparation,Farm 1,Bitter Gourd,Mohan,Mohan1,2028-08-04,,,Moderate
+Weeding,Tsyt Fartm,Bajra,Ajay,ajay_transport,2028-08-05,,,Normal
+Maintenance,Farm,Bajra,Ajay,ajay_pollinate,2028-08-06,,,Moderate
+Sowing,Farmhouse,Chilli (Green),Ajay,ajay_task,2028-08-07,,,Moderate
+Sowing,Kavita,Curry Leaves,Ajay,ajay_transport,2028-08-08,,,Critical
+Harvesting,Farm 1,Bijora,Ajay,ajay_pollinate,2028-08-09,,,Critical
+Drenching,Kavita,Curry Leaves,Farmer,Farmer,2028-08-10,,,Moderate
+Field Preparation,Farm 1,Crop Testing,A Event Logging,a1,2028-08-11,,,Critical
+Field Preparation,Farmhouse,Coriander,Ajay,ajay_transport,2028-08-12,,,Moderate
+Irrigation,Farmhouse,Crop Testing,Ajay,ajay_task,2028-08-13,,,Normal
+Harvesting,Farmhouse,Cow Pea,Farmer,Farmer,2028-08-14,,,Critical
+Harvesting,Kavita,Celery,Ajay,ajay_transport,2028-08-15,,,Normal
+Weeding,Tsyt Fartm,Corn 2,Mohan,Mohan_forecast,2028-08-16,,,Normal
+Drenching,Tsyt Fartm,Bottle Gourd,Mohan,Mohan_forecast,2028-08-17,,,Normal
+Harvesting,Kavita,Amla,Ajith,ajith_green,2028-08-18,,,Critical
+Other,Farm,Corn 2,Mohan,Mohan_forecast,2028-08-19,,,Normal
+Field Preparation,Tsyt Fartm,Cow Pea,Aditii,aditi_irrigate,2028-08-20,,,Normal
+Drenching,Farm,Curry Leaves,Manisha,Manishaa,2028-08-21,,,Moderate
+Harvesting,Farm,Garlic,Mohan,Mohan_forecast,2028-08-22,,,Critical
+Harvesting,Farm,Curry Leaves,Ajay,ajay_transport,2028-08-23,,,Normal
+Maintenance,Farm,Arugula,Ajith,ajith_green,2028-08-24,,,Critical
+Weeding,Farm,Cluster Beans,A Event Logging,a1,2028-08-25,,,Normal
+Irrigation,Farmhouse,Bijora,Farmer,Farmer,2028-08-26,,,Normal
+Field Preparation,Farm 1,Bijora,Ajay,ajay_pollinate,2028-08-27,,,Critical
+Drenching,Farm 1,Cucumber,Ajay,ajay_transport,2028-08-28,,,Normal
+Field Preparation,Kavita,Cotton,A Event Logging,a1,2028-08-29,,,Moderate
+Harvesting,Kavita,Cow Pea,Mohan,Mohan1,2028-08-30,,,Moderate
+Maintenance,Kavita,Arugula,Ajith,ajith_green,2028-08-31,,,Normal
+Field Preparation,Farmhouse,Capsicum,Mohan,Mohan1,2028-09-01,,,Moderate
+Drenching,Farm 1,Chikoo,Ajay,ajay_pollinate,2028-09-02,,,Moderate
+Sowing,Farm 1,Corn,Ajay,ajay_task,2028-09-03,,,Normal
+Other,Farm 1,Cucumber,Ajay,ajay_transport,2028-09-04,,,Moderate
+Field Preparation,Farm 1,Cluster Beans,Manisha,Manisha,2028-09-05,,,Normal
+Harvesting,Farm,Brinjal (Normal),Ajay,ajay_transport,2028-09-06,,,Critical
+Maintenance,Farm 1,Chilli (Green),Aditii,aditi_irrigate,2028-09-07,,,Critical
+Irrigation,Farm 1,Amla,Abhishek 2,abhishek_rain,2028-09-08,,,Moderate
+Harvesting,Farmhouse,Cucumber,Aditii,aditi_irrigate,2028-09-09,,,Critical
+Sowing,Farm,Curry Leaves,Manisha,Manishaa,2028-09-10,,,Moderate
+Maintenance,Farm 1,Bajra,Farmer,Farmer,2028-09-11,,,Normal
+Other,Farm 1,Chilli (Green),Aditii,aditi_irrigate,2028-09-12,,,Critical
+Drenching,Farm,Cotton,Ajay,ajay_transport,2028-09-13,,,Critical
+Weeding,Tsyt Fartm,Crop Testing,Abhishek 2,abhishek_rain,2028-09-14,,,Moderate
+Field Preparation,Farm,Amla,Abhishek 2,abhishek_rain,2028-09-15,,,Normal
+Weeding,Tsyt Fartm,Corn 2,Mohan,Mohan1,2028-09-16,,,Moderate
+Sowing,Farmhouse,Fenugreek,Farmer,Farmer,2028-09-17,,,Critical
+Sowing,Farm 1,Corn,Ajay,ajay_task,2028-09-18,,,Normal
+Sowing,Farm,Corn,Mohan,Mohan_forecast,2028-09-19,,,Moderate
+Weeding,Tsyt Fartm,Curry Leaves,A Event Logging,a1,2028-09-20,,,Critical
+Other,Farm 1,Crop Testing,Ajay,ajay_transport,2028-09-21,,,Critical
+Weeding,Farm 1,Bijora,Ajay,ajay_pollinate,2028-09-22,,,Critical
+Irrigation,Kavita,Cucumber,Aditii,aditi_irrigate,2028-09-23,,,Normal
+Harvesting,Tsyt Fartm,Custard Apple,Ajay,ajay_pollinate,2028-09-24,,,Critical
+Irrigation,Kavita,Bijora,Mohan,Mohan_forecast,2028-09-25,,,Moderate
+Other,Farmhouse,Bottle Gourd,Mohan,Mohan1,2028-09-26,,,Critical
+Maintenance,Farm,Corn,Ajay,ajay_task,2028-09-27,,,Moderate
+Weeding,Farm 1,Amla,Ajay,ajay_transport,2028-09-28,,,Normal
+Other,Farmhouse,Amla,A Event Logging,a1,2028-09-29,,,Critical
+Weeding,Farmhouse,Crop Testing,Mohan,Mohan1,2028-09-30,,,Normal
+Sowing,Farm,Cucumber,A Event Logging,a1,2028-10-01,,,Moderate
+Weeding,Farm 1,Barley,Mohan,Mohan_forecast,2028-10-02,,,Normal
+Maintenance,Farmhouse,Coriander,Farmer,Farmer,2028-10-03,,,Normal
+Field Preparation,Farmhouse,Curry Leaves,A Event Logging,a1,2028-10-04,,,Normal
+Sowing,Tsyt Fartm,Bajra,Abhishek 2,abhishek_rain,2028-10-05,,,Moderate
+Maintenance,Kavita,Bijora,Farmer,Farmer,2028-10-06,,,Critical
+Weeding,Farm 1,Chikoo,Ajay,ajay_pollinate,2028-10-07,,,Critical
+Sowing,Tsyt Fartm,Curry Leaves,Manisha,Manisha,2028-10-08,,,Moderate
+Sowing,Kavita,Corn 2,Ajay,ajay_pollinate,2028-10-09,,,Critical
+Irrigation,Farm 1,Bitter Gourd,Ajay,ajay_transport,2028-10-10,,,Moderate
+Weeding,Farmhouse,Bitter Gourd,Ajay,ajay_transport,2028-10-11,,,Normal
+Other,Tsyt Fartm,Cotton,Manisha,Manisha,2028-10-12,,,Moderate
+Irrigation,Farm 1,Bijora,Farmer,Farmer,2028-10-13,,,Normal
+Irrigation,Farm 1,Chilli (Green),Farmer,Farmer,2028-10-14,,,Normal
+Sowing,Tsyt Fartm,Cotton,Farmer,Farmer,2028-10-15,,,Critical
+Drenching,Farm,Chilli (Big),Ajay,ajay_task,2028-10-16,,,Moderate
+Other,Farm,Cow Pea,A Event Logging,a1,2028-10-17,,,Normal
+Drenching,Kavita,Curry Leaves,Ajith,ajith_green,2028-10-18,,,Normal
+Drenching,Kavita,Bottle Gourd,Ajay,ajay_transport,2028-10-19,,,Moderate
+Other,Farm 1,Coriander,Farmer,Farmer,2028-10-20,,,Moderate
+Sowing,Tsyt Fartm,Bijora,Mohan,Mohan_forecast,2028-10-21,,,Moderate
+Harvesting,Farm,Amla,Aditii,aditi_irrigate,2028-10-22,,,Moderate
+Maintenance,Farmhouse,Capsicum,Manisha,Manishaa,2028-10-23,,,Normal
+Drenching,Tsyt Fartm,Corn 2,Ajay,ajay_task,2028-10-24,,,Critical
+Sowing,Farm,Bijora,Ajith,ajith_green,2028-10-25,,,Moderate
+Field Preparation,Farm,Curry Leaves,Ajith,ajith_green,2028-10-26,,,Critical
+Drenching,Farmhouse,Corn 2,Farmer,Farmer,2028-10-27,,,Moderate
+Irrigation,Farmhouse,Fenugreek,Mohan,Mohan_forecast,2028-10-28,,,Moderate
+Drenching,Farmhouse,Arugula,Ajay,ajay_transport,2028-10-29,,,Critical
+Sowing,Kavita,Bijora,Ajith,ajith_green,2028-10-30,,,Moderate
+Harvesting,Kavita,Chilli (Green),Ajay,ajay_transport,2028-10-31,,,Critical
+Other,Tsyt Fartm,Corn 2,Mohan,Mohan_forecast,2028-11-01,,,Critical
+Irrigation,Farm,Barley,Aditii,aditi_irrigate,2028-11-02,,,Moderate
+Irrigation,Farmhouse,Coriander,A Event Logging,a1,2028-11-03,,,Critical
+Maintenance,Farm,Cow Pea,Ajay,ajay_transport,2028-11-04,,,Critical
+Field Preparation,Farm 1,Corn 2,Aditii,aditi_irrigate,2028-11-05,,,Critical
+Other,Farmhouse,Bottle Gourd,Mohan,Mohan1,2028-11-06,,,Critical
+Other,Farmhouse,Barley,Aditii,aditi_irrigate,2028-11-07,,,Critical
+Sowing,Kavita,Cluster Beans,Ajith,ajith_green,2028-11-08,,,Normal
+Drenching,Farm 1,Cucumber,Ajay,ajay_transport,2028-11-09,,,Moderate
+Weeding,Tsyt Fartm,Garlic,Ajay,ajay_transport,2028-11-10,,,Critical
+Weeding,Tsyt Fartm,Curry Leaves,Ajay,ajay_pollinate,2028-11-11,,,Normal
+Maintenance,Tsyt Fartm,Amla,Manisha,Manisha,2028-11-12,,,Moderate
+Field Preparation,Farm,Bottle Gourd,Ajith,ajith_green,2028-11-13,,,Normal
+Drenching,Farm 1,Custard Apple,Farmer,Farmer,2028-11-14,,,Moderate
+Sowing,Farm,Capsicum,Abhishek 2,abhishek_rain,2028-11-15,,,Moderate
+Sowing,Farm 1,Capsicum,Mohan,Mohan1,2028-11-16,,,Critical
+Irrigation,Farmhouse,Arugula,A Event Logging,a1,2028-11-17,,,Critical
+Sowing,Farmhouse,Brinjal (Normal),Ajay,ajay_pollinate,2028-11-18,,,Critical
+Other,Tsyt Fartm,Chilli (Green),Mohan,Mohan1,2028-11-19,,,Moderate
+Irrigation,Farm,Fenugreek,Farmer,Farmer,2028-11-20,,,Normal
+Other,Tsyt Fartm,Capsicum,Ajay,ajay_task,2028-11-21,,,Normal
+Weeding,Tsyt Fartm,Chilli (Big),Mohan,Mohan_forecast,2028-11-22,,,Critical
+Irrigation,Farm,Bajra,Ajay,ajay_transport,2028-11-23,,,Critical
+Harvesting,Kavita,Arugula,Farmer,Farmer,2028-11-24,,,Critical
+Harvesting,Farm,Chikoo,Farmer,Farmer,2028-11-25,,,Normal
+Other,Farm,Cow Pea,Mohan,Mohan1,2028-11-26,,,Normal
+Drenching,Kavita,Coriander,Ajay,ajay_transport,2028-11-27,,,Normal
+Harvesting,Farm 1,Barley,Mohan,Mohan_forecast,2028-11-28,,,Critical
+Drenching,Tsyt Fartm,Bitter Gourd,Ajay,ajay_task,2028-11-29,,,Critical
+Maintenance,Farmhouse,Bitter Gourd,Ajay,ajay_pollinate,2028-11-30,,,Critical
+Maintenance,Kavita,Chilli (Big),Mohan,Mohan1,2028-12-01,,,Critical
+Field Preparation,Farm 1,Bitter Gourd,Mohan,Mohan1,2028-12-02,,,Critical
+Drenching,Farmhouse,Arugula,Ajay,ajay_task,2028-12-03,,,Normal
+Harvesting,Tsyt Fartm,Cotton,A Event Logging,a1,2028-12-04,,,Moderate
+Other,Kavita,Cucumber,Ajith,ajith_green,2028-12-05,,,Critical
+Maintenance,Tsyt Fartm,Amla,Manisha,Manisha,2028-12-06,,,Moderate
+Field Preparation,Farm 1,Amla,A Event Logging,a1,2028-12-07,,,Moderate
+Field Preparation,Kavita,Bajra,Aditii,aditi_irrigate,2028-12-08,,,Critical
+Drenching,Tsyt Fartm,Cucumber,Aditii,aditi_irrigate,2028-12-09,,,Moderate
+Harvesting,Farm,Bitter Gourd,Mohan,Mohan1,2028-12-10,,,Critical
+Maintenance,Farm 1,Bajra,Ajay,ajay_task,2028-12-11,,,Moderate
+Irrigation,Kavita,Chilli (Big),Ajith,ajith_green,2028-12-12,,,Normal
+Drenching,Farm,Chilli (Green),Ajith,ajith_green,2028-12-13,,,Critical
+Maintenance,Farm 1,Brinjal (Normal),Ajay,ajay_task,2028-12-14,,,Critical
+Other,Kavita,Corn,Mohan,Mohan1,2028-12-15,,,Normal
+Harvesting,Farm,Cotton,Farmer,Farmer,2028-12-16,,,Critical
+Field Preparation,Kavita,Custard Apple,Ajay,ajay_pollinate,2028-12-17,,,Normal
+Irrigation,Tsyt Fartm,Cucumber,Mohan,Mohan_forecast,2028-12-18,,,Moderate
+Irrigation,Tsyt Fartm,Corn,Abhishek 2,abhishek_rain,2028-12-19,,,Normal
+Drenching,Farm 1,Chilli (Green),Abhishek 2,abhishek_rain,2028-12-20,,,Normal
+Harvesting,Farmhouse,Brinjal (Normal),Ajay,ajay_transport,2028-12-21,,,Moderate
+Drenching,Tsyt Fartm,Cucumber,Abhishek 2,abhishek_rain,2028-12-22,,,Normal
+Weeding,Farm,Arugula,Ajay,ajay_transport,2028-12-23,,,Critical
+Sowing,Farmhouse,Fenugreek,Farmer,Farmer,2028-12-24,,,Normal
+Field Preparation,Farm,Bottle Gourd,Manisha,Manishaa,2028-12-25,,,Normal
+Irrigation,Farm 1,Fenugreek,Farmer,Farmer,2028-12-26,,,Moderate
+Drenching,Farm 1,Curry Leaves,Farmer,Farmer,2028-12-27,,,Critical
+Field Preparation,Farm,Corn 2,Ajay,ajay_task,2028-12-28,,,Critical
+Weeding,Kavita,Corn 2,Abhishek 2,abhishek_rain,2028-12-29,,,Moderate
+Maintenance,Farmhouse,Coriander,A Event Logging,a1,2028-12-30,,,Moderate
+Drenching,Farm,Amla,Manisha,Manishaa,2028-12-31,,,Normal
+Sowing,Kavita,Corn,A Event Logging,a1,2029-01-01,,,Moderate
+Harvesting,Farmhouse,Fenugreek,Aditii,aditi_irrigate,2029-01-02,,,Moderate
+Field Preparation,Farm,Corn,Mohan,Mohan1,2029-01-03,,,Normal
+Weeding,Tsyt Fartm,Fenugreek,Farmer,Farmer,2029-01-04,,,Normal
+Maintenance,Kavita,Coriander,Ajay,ajay_transport,2029-01-05,,,Moderate
+Weeding,Tsyt Fartm,Corn,Manisha,Manishaa,2029-01-06,,,Critical
+Field Preparation,Kavita,Bottle Gourd,Manisha,Manisha,2029-01-07,,,Moderate
+Other,Farm 1,Corn 2,Mohan,Mohan1,2029-01-08,,,Critical
+Maintenance,Farm,Arugula,Ajay,ajay_pollinate,2029-01-09,,,Critical
+Irrigation,Farm 1,Bitter Gourd,Abhishek 2,abhishek_rain,2029-01-10,,,Critical
+Irrigation,Tsyt Fartm,Cluster Beans,Manisha,Manisha,2029-01-11,,,Normal
+Weeding,Kavita,Corn 2,Abhishek 2,abhishek_rain,2029-01-12,,,Critical
+Drenching,Farmhouse,Custard Apple,Aditii,aditi_irrigate,2029-01-13,,,Critical
+Sowing,Farmhouse,Garlic,Ajay,ajay_transport,2029-01-14,,,Moderate
+Irrigation,Farm,Capsicum,A Event Logging,a1,2029-01-15,,,Critical
+Irrigation,Farm 1,Cluster Beans,Ajay,ajay_pollinate,2029-01-16,,,Critical
+Harvesting,Farm 1,Bajra,Mohan,Mohan_forecast,2029-01-17,,,Moderate
+Other,Kavita,Chikoo,Aditii,aditi_irrigate,2029-01-18,,,Normal
+Drenching,Farmhouse,Cotton,Ajith,ajith_green,2029-01-19,,,Critical
+Sowing,Farm,Brinjal (Normal),Farmer,Farmer,2029-01-20,,,Moderate
+Sowing,Farm,Amla,Farmer,Farmer,2029-01-21,,,Normal
+Drenching,Kavita,Arugula,Abhishek 2,abhishek_rain,2029-01-22,,,Normal
+Irrigation,Farmhouse,Cluster Beans,Farmer,Farmer,2029-01-23,,,Moderate
+Field Preparation,Tsyt Fartm,Capsicum,Farmer,Farmer,2029-01-24,,,Moderate
+Drenching,Tsyt Fartm,Cow Pea,Ajay,ajay_transport,2029-01-25,,,Critical
+Maintenance,Farmhouse,Cotton,Ajay,ajay_transport,2029-01-26,,,Normal
+Maintenance,Farm 1,Curry Leaves,Manisha,Manisha,2029-01-27,,,Moderate
+Other,Tsyt Fartm,Garlic,Manisha,Manisha,2029-01-28,,,Moderate
+Weeding,Farm,Cotton,Ajay,ajay_transport,2029-01-29,,,Normal
+Sowing,Farm,Coriander,Manisha,Manisha,2029-01-30,,,Critical
+Harvesting,Tsyt Fartm,Cow Pea,Manisha,Manishaa,2029-01-31,,,Moderate
+Other,Tsyt Fartm,Crop Testing,Manisha,Manishaa,2029-02-01,,,Normal
+Field Preparation,Farm,Corn,Manisha,Manisha,2029-02-02,,,Critical
+Irrigation,Tsyt Fartm,Barley,Manisha,Manishaa,2029-02-03,,,Normal
+Maintenance,Tsyt Fartm,Chikoo,Mohan,Mohan1,2029-02-04,,,Critical
+Drenching,Tsyt Fartm,Bijora,Aditii,aditi_irrigate,2029-02-05,,,Normal
+Field Preparation,Farmhouse,Amla,Farmer,Farmer,2029-02-06,,,Normal
+Irrigation,Tsyt Fartm,Capsicum,A Event Logging,a1,2029-02-07,,,Critical
+Sowing,Farm 1,Amla,Ajay,ajay_transport,2029-02-08,,,Critical
+Field Preparation,Farm 1,Amla,Ajay,ajay_pollinate,2029-02-09,,,Moderate
+Maintenance,Farm,Chilli (Green),Aditii,aditi_irrigate,2029-02-10,,,Moderate
+Maintenance,Tsyt Fartm,Chilli (Big),Manisha,Manishaa,2029-02-11,,,Moderate
+Sowing,Farm 1,Coriander,Mohan,Mohan_forecast,2029-02-12,,,Critical
+Harvesting,Farmhouse,Curry Leaves,Aditii,aditi_irrigate,2029-02-13,,,Critical
+Field Preparation,Farm 1,Barley,Ajay,ajay_transport,2029-02-14,,,Moderate
+Maintenance,Farm 1,Coriander,Manisha,Manisha,2029-02-15,,,Moderate
+Weeding,Kavita,Bottle Gourd,Abhishek 2,abhishek_rain,2029-02-16,,,Moderate
+Other,Farmhouse,Corn 2,A Event Logging,a1,2029-02-17,,,Moderate
+Drenching,Farm 1,Coriander,Aditii,aditi_irrigate,2029-02-18,,,Critical
+Drenching,Farm,Brinjal (Long),Ajay,ajay_task,2029-02-19,,,Moderate
+Weeding,Farmhouse,Bottle Gourd,Aditii,aditi_irrigate,2029-02-20,,,Normal
+Maintenance,Kavita,Amla,Aditii,aditi_irrigate,2029-02-21,,,Moderate
+Irrigation,Tsyt Fartm,Bottle Gourd,Manisha,Manisha,2029-02-22,,,Normal
+Weeding,Farmhouse,Amla,Ajay,ajay_transport,2029-02-23,,,Normal
+Harvesting,Farm 1,Corn 2,A Event Logging,a1,2029-02-24,,,Moderate
+Irrigation,Farmhouse,Cotton,Ajay,ajay_pollinate,2029-02-25,,,Critical
+Field Preparation,Farm,Celery,A Event Logging,a1,2029-02-26,,,Critical
+Maintenance,Farm 1,Chikoo,Ajay,ajay_pollinate,2029-02-27,,,Moderate
+Field Preparation,Farm,Garlic,Ajay,ajay_pollinate,2029-02-28,,,Normal
+Field Preparation,Farm,Chilli (Green),Manisha,Manishaa,2029-03-01,,,Normal
+Irrigation,Farm,Bijora,Ajay,ajay_transport,2029-03-02,,,Normal
+Drenching,Kavita,Fenugreek,Mohan,Mohan_forecast,2029-03-03,,,Critical
+Harvesting,Kavita,Cow Pea,Abhishek 2,abhishek_rain,2029-03-04,,,Normal
+Other,Kavita,Corn,Ajay,ajay_task,2029-03-05,,,Moderate
+Maintenance,Kavita,Chikoo,Mohan,Mohan_forecast,2029-03-06,,,Normal
+Sowing,Farm 1,Fenugreek,Mohan,Mohan_forecast,2029-03-07,,,Moderate
+Field Preparation,Farm 1,Coriander,Mohan,Mohan1,2029-03-08,,,Normal
+Irrigation,Tsyt Fartm,Corn,Mohan,Mohan1,2029-03-09,,,Moderate
+Drenching,Farm,Celery,Mohan,Mohan1,2029-03-10,,,Critical
+Field Preparation,Tsyt Fartm,Bitter Gourd,Abhishek 2,abhishek_rain,2029-03-11,,,Moderate
+Harvesting,Farm 1,Brinjal (Normal),Aditii,aditi_irrigate,2029-03-12,,,Normal
+Drenching,Farm 1,Custard Apple,Aditii,aditi_irrigate,2029-03-13,,,Normal
+Maintenance,Tsyt Fartm,Amla,Ajay,ajay_transport,2029-03-14,,,Moderate
+Weeding,Kavita,Barley,Mohan,Mohan1,2029-03-15,,,Critical
+Weeding,Farm 1,Bottle Gourd,Manisha,Manisha,2029-03-16,,,Critical
+Harvesting,Farm 1,Chilli (Big),Ajay,ajay_pollinate,2029-03-17,,,Moderate
+Other,Farm,Cotton,Aditii,aditi_irrigate,2029-03-18,,,Moderate
+Harvesting,Farmhouse,Garlic,Mohan,Mohan_forecast,2029-03-19,,,Normal
+Other,Kavita,Arugula,Ajay,ajay_task,2029-03-20,,,Moderate
+Weeding,Tsyt Fartm,Bijora,A Event Logging,a1,2029-03-21,,,Normal
+Field Preparation,Farm,Cucumber,Aditii,aditi_irrigate,2029-03-22,,,Critical
+Other,Farm 1,Bottle Gourd,Mohan,Mohan1,2029-03-23,,,Moderate
+Harvesting,Farm 1,Cotton,Manisha,Manisha,2029-03-24,,,Moderate
+Harvesting,Kavita,Capsicum,A Event Logging,a1,2029-03-25,,,Normal
+Weeding,Tsyt Fartm,Brinjal (Normal),Ajay,ajay_task,2029-03-26,,,Critical
+Irrigation,Farmhouse,Coriander,Manisha,Manisha,2029-03-27,,,Critical
+Drenching,Farmhouse,Capsicum,Ajith,ajith_green,2029-03-28,,,Moderate
+Other,Farm 1,Crop Testing,Abhishek 2,abhishek_rain,2029-03-29,,,Normal
+Maintenance,Farmhouse,Cluster Beans,Aditii,aditi_irrigate,2029-03-30,,,Moderate
+Other,Farm,Corn 2,Abhishek 2,abhishek_rain,2029-03-31,,,Moderate
+Maintenance,Farm 1,Coriander,Ajith,ajith_green,2029-04-01,,,Critical
+Other,Tsyt Fartm,Amla,Ajith,ajith_green,2029-04-02,,,Critical
+Maintenance,Tsyt Fartm,Bijora,Ajay,ajay_task,2029-04-03,,,Moderate
+Drenching,Farm 1,Cotton,Manisha,Manishaa,2029-04-04,,,Critical
+Other,Kavita,Brinjal (Long),A Event Logging,a1,2029-04-05,,,Moderate
+Maintenance,Kavita,Fenugreek,Manisha,Manisha,2029-04-06,,,Normal
+Irrigation,Kavita,Brinjal (Long),Mohan,Mohan1,2029-04-07,,,Moderate
+Irrigation,Kavita,Bijora,Manisha,Manishaa,2029-04-08,,,Critical
+Maintenance,Kavita,Cucumber,Manisha,Manishaa,2029-04-09,,,Critical
+Sowing,Farm 1,Custard Apple,Ajay,ajay_pollinate,2029-04-10,,,Critical
+Sowing,Kavita,Brinjal (Normal),Mohan,Mohan_forecast,2029-04-11,,,Normal
+Sowing,Farm,Capsicum,Manisha,Manisha,2029-04-12,,,Normal
+Drenching,Farm 1,Bajra,Manisha,Manisha,2029-04-13,,,Moderate
+Field Preparation,Tsyt Fartm,Bijora,Manisha,Manisha,2029-04-14,,,Normal
+Weeding,Farmhouse,Brinjal (Long),Aditii,aditi_irrigate,2029-04-15,,,Normal
+Harvesting,Farm,Cluster Beans,Mohan,Mohan1,2029-04-16,,,Normal
+Irrigation,Farm,Garlic,Abhishek 2,abhishek_rain,2029-04-17,,,Critical
+Maintenance,Kavita,Cotton,Ajay,ajay_transport,2029-04-18,,,Normal
+Maintenance,Farm,Chikoo,Manisha,Manisha,2029-04-19,,,Normal
+Irrigation,Farm 1,Curry Leaves,Ajay,ajay_transport,2029-04-20,,,Moderate
+Field Preparation,Tsyt Fartm,Cow Pea,Ajay,ajay_task,2029-04-21,,,Normal
+Field Preparation,Farm 1,Corn 2,Ajith,ajith_green,2029-04-22,,,Normal
+Maintenance,Farmhouse,Chilli (Green),Mohan,Mohan1,2029-04-23,,,Critical
+Field Preparation,Farmhouse,Barley,Ajay,ajay_task,2029-04-24,,,Normal
+Irrigation,Tsyt Fartm,Cotton,A Event Logging,a1,2029-04-25,,,Moderate
+Sowing,Farm 1,Bitter Gourd,Manisha,Manisha,2029-04-26,,,Moderate
+Maintenance,Tsyt Fartm,Cluster Beans,Mohan,Mohan_forecast,2029-04-27,,,Moderate
+Drenching,Kavita,Capsicum,Mohan,Mohan_forecast,2029-04-28,,,Critical
+Weeding,Kavita,Chikoo,Manisha,Manishaa,2029-04-29,,,Normal
+Irrigation,Farm,Bijora,Abhishek 2,abhishek_rain,2029-04-30,,,Critical
+Sowing,Farm,Bijora,Manisha,Manishaa,2029-05-01,,,Critical
+Other,Farmhouse,Chilli (Green),Manisha,Manisha,2029-05-02,,,Critical
